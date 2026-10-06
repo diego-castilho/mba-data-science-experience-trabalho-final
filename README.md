@@ -4,7 +4,7 @@ Previsão de atraso na entrega no e-commerce brasileiro, com a base pública da 
 
 Trabalho final da disciplina Data Science Experience do MBA.
 
-**Integrantes:** Diego Castilho, Leandro Oliveira, Luiz Fernando, Matheus Ferreira e Rodrigo Palma.
+**Integrantes:** Diego Castilho, Leandro Oliveira, Luiz Fernando, Matheus Ferreira, Rodrigo Palma e Sara Barros.
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diego-castilho/mba-data-science-experience-trabalho-final/blob/main/Data_Science_Experience.ipynb)
 
