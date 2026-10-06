@@ -48,7 +48,7 @@ exploratória, preparação, modelagem, otimização com AutoML, avaliação, in
 ## Como executar
 
 **Google Colab:** clique no botão "Abrir no Colab" acima e use `Ambiente de execução → Executar tudo`. A
-primeira célula instala as bibliotecas que faltarem. A execução leva de 30 a 45 minutos.
+primeira célula instala as bibliotecas que faltarem. A execução leva cerca de 1h10.
 
 **Localmente (VSCode):** o ambiente foi criado com o [uv](https://docs.astral.sh/uv/).
 
