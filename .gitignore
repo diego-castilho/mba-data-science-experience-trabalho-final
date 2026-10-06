@@ -1,0 +1,14 @@
+# Repositório de entrega: ignora tudo e libera só os arquivos do trabalho final
+/*
+!/.gitignore
+!/README.md
+!/Data_Science_Experience.ipynb
+!/pyproject.toml
+!/uv.lock
+!/.python-version
+
+# A base de dados não é versionada: o notebook baixa direto do Kaggle
+data/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
